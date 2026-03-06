@@ -18,12 +18,5 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images across 10 distinct cl
 * **Computer Vision & Data:** Torchvision / NumPy
 * **Visualization:** Matplotlib
 
-## 📈 Results vs. Baseline
-*(Note: Replace the placeholders below with your actual results. Upload a screenshot of your Loss/Accuracy curves)*
-![CNN Training Curves](link-to-your-image-here)
-
-* **CNN Final Accuracy:** XX%
-* **Improvement over MLP:** This architecture achieved a +XX% accuracy increase compared to the baseline dense network, converging faster with less overfitting.
-
 ## ⚙️ How to Run
 Open the Jupyter Notebook `CNN_CIFAR10_Practica_Extendida.ipynb` and run the cells sequentially to initialize the dataset, train the CNN, and output the evaluation metrics.
